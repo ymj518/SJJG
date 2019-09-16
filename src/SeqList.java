@@ -42,7 +42,7 @@ public class SeqList<T> extends Object {
     public static void main(String[] args) {
         // TODO Auto-generated method stub
         String values[]= {"A","B","c","D","E"};
-        SeqList<String>lista=new SeqList<String>(values);     //引用顺序表实例，元素是string对象
+        SeqList<String>lista=new SeqList<String>(values);
 //        SeqList<Integer>listl=new SeqList<Integer>();
 }
 }
